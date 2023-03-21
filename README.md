@@ -206,7 +206,3 @@ Please cite the repo if you use the data or code in this repo.
 
 Naturally, you should also cite the original LLaMA paper [1] and the Self-Instruct paper [2].
 
-### Acknowledgements
-
-We thank Yizhong Wang for his help in explaining the data generation pipeline in Self-Instruct and providing the code for the parse analysis plot.
-We thank Yifan Mai for helpful support, and members of the Stanford NLP Group as well as the Center for Research on Foundation Models (CRFM) for their helpful feedback.
